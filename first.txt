@@ -1,2 +1,6 @@
 Gitの練習をしていきます
 Gitの基本的なワークフローを学びます
+コミットの前にadd
+git add
+git commit
+
